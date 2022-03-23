@@ -1,2 +1,2 @@
 # Project-Lomba
-Project Lomba Data Science 2021
+Project Turnamen Data Sains Nasional 2021
